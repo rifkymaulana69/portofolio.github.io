@@ -4,7 +4,7 @@ Project portofolio
 
 ## Instalasi
 
-1. Clone repositori ini: `git clone <repository_url>`
+1. Clone repositori ini: `git clone <https://github.com/rifkymaulana69/portofolio.github.io.git>`
 2. Pindah ke direktori proyek: `cd nama-proyek`
 3. Install dependencies: `npm install`
 
